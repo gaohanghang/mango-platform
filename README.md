@@ -14,6 +14,8 @@ Mango后台权限管理系统是基于Spring Boot、Spring Cloud、Vue.js 、Ele
 
 QQ技术交流群： 429854222
 
+笔者技术博客：[https://www.cnblogs.com/xifengxiaoma/](https://www.cnblogs.com/xifengxiaoma/)
+
 ### 功能列表
 
 ✔ 系统登录：系统用户登录，系统登录认证（token方式）
