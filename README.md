@@ -4,9 +4,30 @@
 
 Mango后台权限管理系统是基于Spring Boot、Spring Cloud、Vue.js 、Element UI等主流前后端技术，采用前后端分离架构实现的权限管理系统。也是一款采用当前主流技术实现的界面优雅、架构优良、代码简洁、注释完善、基础功能相对完整的JAVA EE快速开发平台，前后端开发人员都可以以此为范例从中学习和汲取技术知识，也可以基于此系统开发和实现具体生产项目。
 
-此项目为笔者和清华大学出版社合作出版的专业书籍《SpringBoot+SpringCloud+Vue+Element项目实战：手把手教你开发权限管理系统》的配套附件，附件内容包含书籍项目相关源码、数据库脚本、项目安装和运行教程等。
+此项目为笔者和清华大学出版社合作出版的专业书籍《Spring Boot+Spring Cloud+Vue+Element项目实战：手把手教你开发权限管理系统》的配套附件，附件内容包含书籍项目相关源码、数据库脚本、项目安装和运行教程等。
 
-书籍链接：预计2019.6出版...
+#### 书籍封面
+
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0605/105405_69303b58_645970.png "sbscve.png")
+
+#### 书籍链接
+
+##### 京东 参考链接：
+
+[https://item.jd.com/49029589963.html](https://item.jd.com/49029589963.html)
+
+[https://item.jd.com/48751078393.html](https://item.jd.com/48751078393.html)
+
+##### 当当 参考链接：
+
+[http://product.dangdang.com/1438252364.html](http://product.dangdang.com/1438252364.html)
+
+##### 天猫 参考链接：
+
+[https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.a4721049QUevoi&id=595707200013](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.a4721049QUevoi&id=595707200013)
+
+[https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.6.a4721049QUevoi&id=596116466076](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.6.a4721049QUevoi&id=596116466076)
+
 
 ### 技术交流
 
